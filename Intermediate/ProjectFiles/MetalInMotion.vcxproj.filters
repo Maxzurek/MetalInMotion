@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MetalInMotion.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{12BBB3D7-B931-4D87-9066-425176C00D62}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MetalInMotion.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MetalInMotionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1AF79B8C-C136-4044-8853-EC0345B20B58}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MetalInMotion">
+      <UniqueIdentifier>{2C2425A4-8771-4867-9918-A96F0FCECB5B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MetalInMotion\MetalInMotion.Build.cs">
+      <Filter>Source\MetalInMotion</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MetalInMotion\MetalInMotion.cpp">
+      <Filter>Source\MetalInMotion</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MetalInMotion\MetalInMotion.h">
+      <Filter>Source\MetalInMotion</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MetalInMotion\MetalInMotionGameModeBase.cpp">
+      <Filter>Source\MetalInMotion</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MetalInMotion\MetalInMotionGameModeBase.h">
+      <Filter>Source\MetalInMotion</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

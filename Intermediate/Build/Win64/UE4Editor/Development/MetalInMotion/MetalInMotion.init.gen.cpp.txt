@@ -1,0 +1,3 @@
+B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\UE4Editor\Development\MetalInMotion\Definitions.MetalInMotion.h
+B:\Coding\UnrealEngines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+B:\Coding\UnrealEngines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

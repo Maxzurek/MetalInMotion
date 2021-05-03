@@ -1,0 +1,2 @@
+B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\UE4Editor\Development\MetalInMotion\Definitions.MetalInMotion.h
+B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Source\MetalInMotion\MetalInMotion.h

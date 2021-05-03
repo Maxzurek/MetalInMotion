@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MetalInMotion",
+			"Path": "B:\\Coding\\VisualStudio_WorkSpace\\Unreal Projects\\MetalInMotion\\MetalInMotion\\Source\\MetalInMotion.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MetalInMotionEditor",
+			"Path": "B:\\Coding\\VisualStudio_WorkSpace\\Unreal Projects\\MetalInMotion\\MetalInMotion\\Source\\MetalInMotionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"B:\\Coding\\VisualStudio_WorkSpace\\Unreal Projects\\MetalInMotion\\MetalInMotion\\Source\\MetalInMotion\\MetalInMotion.Build.cs",
+		"B:\\Coding\\VisualStudio_WorkSpace\\Unreal Projects\\MetalInMotion\\MetalInMotion\\Source\\MetalInMotion.Target.cs",
+		"B:\\Coding\\VisualStudio_WorkSpace\\Unreal Projects\\MetalInMotion\\MetalInMotion\\Source\\MetalInMotionEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

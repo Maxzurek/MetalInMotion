@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MetalInMotion.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\MetalInMotionEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\UE4Editor\Development\MetalInMotion\MetalInMotion.cpp.obj"
+"B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\UE4Editor\Development\MetalInMotion\MetalInMotionGameModeBase.cpp.obj"
+"B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\UE4Editor\Development\MetalInMotion\MetalInMotion.init.gen.cpp.obj"
+"B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\UE4Editor\Development\MetalInMotion\MetalInMotionGameModeBase.gen.cpp.obj"
+"B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\UE4Editor\Development\MetalInMotion\Default.rc2.res"
+/OUT:"B:\Coding\VisualStudio_WorkSpace\Unreal Projects\MetalInMotion\MetalInMotion\Intermediate\Build\Win64\UE4Editor\Development\MetalInMotion\UE4Editor-MetalInMotion.lib"
+/INCLUDE:IMPLEMENT_MODULE_MetalInMotion
